@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Manolis Ntamadakis</h1>
-<h3 align="center">A passionate software developer from Chania, Greece</h3>
+<div id="header" align="center">
+  <h1>Hi 👋, I'm Manolis Ntamadakis</h1>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntamasm&label=Profile%20views&color=0e75b6&style=flat" alt="ntamasm" /> </p>
 
