@@ -4,15 +4,15 @@
   <h3 align="center">A passionate software developer from Chania, Greece</h3>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
+  <a href="https://ntamadakis.gr">
+    <img alt="Static Badge" src="https://img.shields.io/badge/My_portfolio%3A-ntamadakis.gr-navy?style=for-the-badge" alt="My Portfolio Badge"/>
+  </a>
   <a href="https://linkedin.com/in/manolis-ntamadakis">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[link to your Medium profile]">
-    <img src="https://img.shields.io/badge/facebook-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-  <a href="[link to your Tableau profile]">
-    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  <a href="https://www.instagram.com/manolis_ntamas/">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram" alt="Instagram Badge"/>
   </a>
 </div>
 
