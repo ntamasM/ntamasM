@@ -29,7 +29,7 @@
 
 <div id="stats" align="center">
   <h2>Stats</h2>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntamasm&card_width=600&theme=transparent&title_color=285d56&text_color=d1ebf3" alt="ntamasm" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ntamasm&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=600&fire=EB7474&stroke=285d56&ring=285d56&dates=285d56&currStreakLabel=d1ebf3&currStreakNum=d1ebf3&sideNums=d1ebf3&sideLabels=d1ebf3" alt="ntamasm" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntamasm&show_icons=true&locale=en&layout=compact&card_width=600&theme=transparent&title_color=285d56&text_color=d1ebf3" alt="ntamasm" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntamasm&show_icons=true&locale=en&card_width=600&theme=transparent&title_color=285d56&text_color=d1ebf3" alt="ntamasm" /></p>
 </div>
