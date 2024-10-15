@@ -4,6 +4,18 @@
   <h3 align="center">A passionate software developer from Chania, Greece</h3>
 </div>
 
+<div id="badges">
+  <a href="https://linkedin.com/in/manolis-ntamadakis">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[link to your Medium profile]">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+  <a href="[link to your Tableau profile]">
+    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntamasm&label=Profile%20views&color=0e75b6&style=flat" alt="ntamasm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntamasm" alt="ntamasm" /></a> </p>
