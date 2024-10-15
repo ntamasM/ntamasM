@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi 👋, I'm Manolis Ntamadakis</h1>
-  <img src="[insert an image of yourself or something you like]" width="200" />
+  <img src="/Ntamas Image.svg" width="200" />
   <p>[briefly describe yourself and your interests]</p>
 </div>
 
